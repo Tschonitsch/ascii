@@ -1,3 +1,4 @@
+
 # ASCII / Unicode Art Collection
 
 A collection of ASCII and Unicode art gathered from various sources across the internet.
